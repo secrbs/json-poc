@@ -1,0 +1,14 @@
+# Build output
+x64/
+Debug/
+Release/
+*.user
+*.VC.db
+*.VC.opendb
+.vs/
+
+# Generated files
+output.json
+user.json
+*.json
+!README.md
